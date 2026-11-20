@@ -1,6 +1,6 @@
 # 文档插画师 · Document Illustrator
 
-![Version](https://img.shields.io/badge/version-0.3.1-CC785C)
+![Version](https://img.shields.io/badge/version-0.3.2-CC785C)
 
 为文档原地插入 AI 配图：先全局规划插入点，再并行生成图片，最后按锚点异步插回原文。
 
@@ -9,7 +9,7 @@ Part of [skill-publisher general skills](https://example.com/skills/general-skil
 ## Install
 
 ```bash
-npx skills add document-illustrator -g -y
+npx lovstudio skills add document-illustrator -g -y
 ```
 
 ## Workflow
